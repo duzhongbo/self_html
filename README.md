@@ -1,2 +1,2 @@
 # self_html
-html标签的使用.
+html标签的使用..
